@@ -1,0 +1,35 @@
+2020-08-12 14:36:58,883 - baidu_traslate.py[line:50] - ERROR: 'trans_result'
+Traceback (most recent call last):
+  File "C:\Users\laolu\Downloads\Nessus翻译工具\Nessus英文报告翻译脚本_V4\baidu_traslate.py", line 36, in translate
+    xx = trans_result['trans_result']
+KeyError: 'trans_result'
+2020-08-12 14:36:59,754 - baidu_traslate.py[line:50] - ERROR: 'trans_result'
+Traceback (most recent call last):
+  File "C:\Users\laolu\Downloads\Nessus翻译工具\Nessus英文报告翻译脚本_V4\baidu_traslate.py", line 36, in translate
+    xx = trans_result['trans_result']
+KeyError: 'trans_result'
+2020-08-12 14:37:00,343 - baidu_traslate.py[line:50] - ERROR: 'trans_result'
+Traceback (most recent call last):
+  File "C:\Users\laolu\Downloads\Nessus翻译工具\Nessus英文报告翻译脚本_V4\baidu_traslate.py", line 36, in translate
+    xx = trans_result['trans_result']
+KeyError: 'trans_result'
+2020-08-12 14:37:01,271 - baidu_traslate.py[line:50] - ERROR: 'trans_result'
+Traceback (most recent call last):
+  File "C:\Users\laolu\Downloads\Nessus翻译工具\Nessus英文报告翻译脚本_V4\baidu_traslate.py", line 36, in translate
+    xx = trans_result['trans_result']
+KeyError: 'trans_result'
+2020-08-12 14:37:01,562 - baidu_traslate.py[line:50] - ERROR: 'trans_result'
+Traceback (most recent call last):
+  File "C:\Users\laolu\Downloads\Nessus翻译工具\Nessus英文报告翻译脚本_V4\baidu_traslate.py", line 36, in translate
+    xx = trans_result['trans_result']
+KeyError: 'trans_result'
+2020-08-12 14:37:02,248 - baidu_traslate.py[line:50] - ERROR: 'trans_result'
+Traceback (most recent call last):
+  File "C:\Users\laolu\Downloads\Nessus翻译工具\Nessus英文报告翻译脚本_V4\baidu_traslate.py", line 36, in translate
+    xx = trans_result['trans_result']
+KeyError: 'trans_result'
+2020-08-12 14:37:02,540 - baidu_traslate.py[line:50] - ERROR: 'trans_result'
+Traceback (most recent call last):
+  File "C:\Users\laolu\Downloads\Nessus翻译工具\Nessus英文报告翻译脚本_V4\baidu_traslate.py", line 36, in translate
+    xx = trans_result['trans_result']
+KeyError: 'trans_result'
